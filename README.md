@@ -2,7 +2,7 @@
 
 ![Platform](https://img.shields.io/badge/platform-Android-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![GitHub Stars](https://img.shields.io/github/stars/--YOUR-USERNAME--/--YOUR-REPO--?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Adity-a/PasswordManager?style=social)
 
 A secure and easy-to-use password manager for Android that keeps your digital life safe. Built with robust AES-256 encryption, biometric authentication, and secure backup options.
 
@@ -59,7 +59,7 @@ Security is the core foundation of this application.
 
 1.  Clone the repo
     ```sh
-    git clone [https://github.com/--YOUR-USERNAME--/--YOUR-REPO--.git](https://github.com/--YOUR-USERNAME--/--YOUR-REPO--.git)
+    git clone [https://github.com/Adity-a/PasswordManager.git](https://github.com/Adity-a/PasswordManager.git)
     ```
 2.  Open the project in Android Studio.
 3.  Build and run the application.
@@ -97,4 +97,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
 
-Project Link: [https://github.com/--YOUR-USERNAME--/--YOUR-REPO--](https://github.com/--YOUR-USERNAME--/--YOUR-REPO--)
+Project Link: [https://github.com/--YOUR-USERNAME--/--YOUR-REPO--](https://github.com/Adity-a/PasswordManager)
