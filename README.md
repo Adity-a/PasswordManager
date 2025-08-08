@@ -16,9 +16,9 @@ This Password Manager provides a secure vault for all your credentials, accessib
 
 *(You should replace these placeholders with actual screenshots of your app!)*
 
-| Login Screen | Main Vault | Add New Entry |
+| Login Screen | Home | Register | Bometrics |
 | :---: | :---: | :---: |
-| ![App Screenshot 1](https://placehold.co/200x400/1e1e1e/ffffff?text=Login+Screen) | ![App Screenshot 2](https://placehold.co/200x400/1e1e1e/ffffff?text=Main+Vault) | ![App Screenshot 3](https://placehold.co/200x400/1e1e1e/ffffff?text=Add+Entry) |
+| ![App Screenshot 1]([https://placehold.co/200x400/1e1e1e/ffffff](https://github.com/Adity-a/PasswordManager/blob/main/Screenshots/login.jpg)?text=Login+Screen) | ![App Screenshot 2]([https://placehold.co/200x400/1e1e1e/ffffff](https://github.com/Adity-a/PasswordManager/blob/main/Screenshots/home.jpg)?text=Home) | ![App Screenshot 3]([https://placehold.co/200x400/1e1e1e/ffffff](https://github.com/Adity-a/PasswordManager/blob/main/Screenshots/register.jpg)?text=Register) | ![App Screenshot 4]([https://placehold.co/200x400/1e1e1e/ffffff](https://github.com/Adity-a/PasswordManager/blob/main/Screenshots/biometrics.jpg)?text=Biometrics) |
 
 ---
 
@@ -69,9 +69,9 @@ Security is the core foundation of this application.
 ## 🛠️ Usage
 
 1.  **Set Up Master PIN:** On first launch, create your master PIN to encrypt the vault.
-2.  **Enable Biometrics:** Go to `Settings` to enable biometric authentication.
+2.  **Enable Biometrics:** Automatic enable biometric authentication.
 3.  **Add a Password:** Tap the `+` button to add new credentials.
-4.  **Backup/Restore:** Go to `Settings -> Backup/Export` to manage your encrypted backups.
+4.  **Backup/Restore:** Go to `Home -> Backup/Export` automatically when new password is added.
 
 ---
 
@@ -89,12 +89,10 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the AGPL-3.0 License. See `LICENSE.txt` for more information.
 
 ---
 
-## 📧 Contact
+## 📧 Links
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/--YOUR-USERNAME--/--YOUR-REPO--](https://github.com/Adity-a/PasswordManager)
+Project Link: [https://github.com/Adity-a/PasswordManager](https://github.com/Adity-a/PasswordManager)
