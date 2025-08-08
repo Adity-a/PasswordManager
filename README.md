@@ -16,9 +16,9 @@ This Password Manager provides a secure vault for all your credentials, accessib
 
 *(You should replace these placeholders with actual screenshots of your app!)*
 
-| Login Screen | Home | Register | Bometrics |
-| :---: | :---: | :---: |
-| ![App Screenshot 1](https://github.com/Adity-a/PasswordManager/blob/main/Screenshots/login.jpg) | ![App Screenshot 2](https://github.com/Adity-a/PasswordManager/blob/main/Screenshots/home.jpg) | ![App Screenshot 3](https://github.com/Adity-a/PasswordManager/blob/main/Screenshots/register.jpg) | ![App Screenshot 4](https://github.com/Adity-a/PasswordManager/blob/main/Screenshots/biometrics.jpg) |
+| Login Screen | Home | Register | Biometrics |
+| :---: | :---: | :---: | :---: |
+| ![App Screenshot 1](https://github.com/Adity-a/PasswordManager/raw/main/Screenshots/login.jpg) | ![App Screenshot 2](https://github.com/Adity-a/PasswordManager/raw/main/Screenshots/home.jpg) | ![App Screenshot 3](https://github.com/Adity-a/PasswordManager/raw/main/Screenshots/register.jpg) | ![App Screenshot 4](https://github.com/Adity-a/PasswordManager/raw/main/Screenshots/biometrics.jpg) |
 
 ---
 
