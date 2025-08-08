@@ -1,8 +1,6 @@
 # Password Manager for Android
 
 ![Platform](https://img.shields.io/badge/platform-Android-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![GitHub Stars](https://img.shields.io/github/stars/Adity-a/PasswordManager?style=social)
 
 A secure and easy-to-use password manager for Android that keeps your digital life safe. Built with robust AES-256 encryption, biometric authentication, and secure backup options.
 
@@ -13,8 +11,6 @@ A secure and easy-to-use password manager for Android that keeps your digital li
 This Password Manager provides a secure vault for all your credentials, accessible only to you. It simplifies password management without compromising on security, offering a clean, intuitive interface and powerful features.
 
 ### Screenshots
-
-*(You should replace these placeholders with actual screenshots of your app!)*
 
 | Login Screen | Home | Register | Biometrics |
 | :---: | :---: | :---: | :---: |
