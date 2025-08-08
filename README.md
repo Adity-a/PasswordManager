@@ -18,7 +18,7 @@ This Password Manager provides a secure vault for all your credentials, accessib
 
 | Login Screen | Home | Register | Bometrics |
 | :---: | :---: | :---: |
-| ![App Screenshot 1]([https://placehold.co/200x400/1e1e1e/ffffff](https://github.com/Adity-a/PasswordManager/blob/main/Screenshots/login.jpg)?text=Login+Screen) | ![App Screenshot 2]([https://placehold.co/200x400/1e1e1e/ffffff](https://github.com/Adity-a/PasswordManager/blob/main/Screenshots/home.jpg)?text=Home) | ![App Screenshot 3]([https://placehold.co/200x400/1e1e1e/ffffff](https://github.com/Adity-a/PasswordManager/blob/main/Screenshots/register.jpg)?text=Register) | ![App Screenshot 4]([https://placehold.co/200x400/1e1e1e/ffffff](https://github.com/Adity-a/PasswordManager/blob/main/Screenshots/biometrics.jpg)?text=Biometrics) |
+| ![App Screenshot 1](https://github.com/Adity-a/PasswordManager/blob/main/Screenshots/login.jpg) | ![App Screenshot 2](https://github.com/Adity-a/PasswordManager/blob/main/Screenshots/home.jpg) | ![App Screenshot 3](https://github.com/Adity-a/PasswordManager/blob/main/Screenshots/register.jpg) | ![App Screenshot 4](https://github.com/Adity-a/PasswordManager/blob/main/Screenshots/biometrics.jpg) |
 
 ---
 
